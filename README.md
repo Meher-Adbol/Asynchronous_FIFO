@@ -18,7 +18,3 @@ This repository contains the Verilog implementation and report for a 64-depth as
 - `rd_ptr_empty_logic.v` – Read pointer & empty logic  
 - `w_2_r_sync.v`, `r_2_w_sync.v` – Cross-domain synchronizers  
 - `async_fifo_tb.v` – Testbench  
-- `REPORT.tex` – Project report (LaTeX)  
-
-## Report
-See `REPORT.tex` / compiled PDF for full design description, methodology, and verification results.
